@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+at least a top 50% Mark Johnson
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+interested in applying ML/AI techniques to gain investing insights.
