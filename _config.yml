@@ -2,22 +2,12 @@ title: "Bloggy"
 author: "Mark Johnson"
 description: "screeeeee" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
 email: "markallanjohnson1@gmail.com"
 #twitter_username: "shmarkjohnson"
 github_username: "markallanjohnson"
 linkedin_username: "markallanjohnson"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+#instagram_username: "shmarkjohnson"
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
 theme: "midnight"
 
 rss: rss
